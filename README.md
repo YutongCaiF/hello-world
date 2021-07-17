@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-
-my mom
+ok. I think it is fine.
