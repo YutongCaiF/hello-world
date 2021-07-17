@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-
-my mom
+My parents are friendly>
